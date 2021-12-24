@@ -77,6 +77,10 @@ const Intro = () => {
           <h1>Hi,</h1>
           <h3>I'm Devin Khun.</h3>
           <h6>I build things for the web.</h6>
+          <p>
+            I'm a self taught entry-level software developer and programming is
+            my hobby working with React and NextJS.
+          </p>
         </Text>
       </SubBox>
       <SubBox>
