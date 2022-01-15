@@ -15,7 +15,11 @@ const Logo = styled.h1`
 `;
 
 const LogoComponent = (props) => {
-  return <Logo color={props.theme}>DK</Logo>;
+  return (
+    <a href="/">
+      <Logo color={props.theme}>DK</Logo>
+    </a>
+  );
 };
 
 export default LogoComponent;
